@@ -13,4 +13,7 @@ function multiply(a,b){
   return x
 }
 
-function
+function divide(a,b){
+  var x = a/b
+  return x
+}
