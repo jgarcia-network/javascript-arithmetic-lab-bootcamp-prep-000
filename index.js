@@ -17,3 +17,13 @@ function divide(a,b){
   var x = a/b
   return x
 }
+
+function inc(n){
+  n++
+  return n
+}
+
+function dec(n){
+  n--
+  return n
+}
